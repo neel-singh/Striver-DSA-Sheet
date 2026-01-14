@@ -1,13 +1,12 @@
 # Arrays
 
-Solved: 8 problems  
+Solved: In progress 
 
 ## Patterns Covered
 - Two pointers
 - Hashing
-- Recursion
 - Sliding Window
 
-
 ## Notes
-Focus was on understanding optimal solutions rather than brute force.
+Focus is on understanding optimal solutions rather than brute force.
+
