@@ -1,9 +1,17 @@
-# Linked List
+## Linked List
 
-This directory contains solutions to **Linked List problems** from **Striver’s DSA Sheet**, implemented in **Java**.
+Solved: In progress  
 
-Problems are organized by difficulty level.
+### Patterns Covered
+- Fast & slow pointers
+- Two pointers
+- Recursion
+- Hashing
 
----
+### Notes
+- Focus is on understanding pointer manipulation
+- Emphasis on optimal solutions over brute force
+- Special attention to edge cases (null, single node)
+
 
 
