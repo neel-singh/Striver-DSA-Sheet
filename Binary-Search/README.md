@@ -1,4 +1,4 @@
-## Binary Search
+# Binary Search
 
 Solved: In progress
 
@@ -12,7 +12,7 @@ Patterns Covered
     2D Matrix Binary Search
     Kth Smallest / Largest (Binary Search + Counting)
 
-# Notes
+## Notes
 
 Focus is on mastering search space reduction and identifying monotonic conditions rather than memorizing templates.
 
