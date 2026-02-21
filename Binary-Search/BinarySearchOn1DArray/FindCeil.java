@@ -1,7 +1,7 @@
 // Problem: Ceil in a Sorted Array
 // Pattern: Binary Search
 // Time Complexity: O(logn)
-// Space Complexity: O(!)
+// Space Complexity: O(1)
 
 class FindCeil {
     public int findCeil(int[] nums, int x) {
