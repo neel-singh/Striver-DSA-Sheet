@@ -15,7 +15,7 @@ class SortStack{
 
   public void insert(Stack<Integer> st, int ele){
     if(st.isEmpty() || st.peek() <= ele){
-      s.push(ele);
+      st.push(ele);
       return;
     }
 
